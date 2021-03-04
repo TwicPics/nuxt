@@ -4,7 +4,7 @@
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 
-> TwicPics integration with Nuxt
+> [TwicPics](https://www.twicpics.com) integration with Nuxt
 
 ## Setup
 
