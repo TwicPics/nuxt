@@ -1,6 +1,6 @@
 {
   "name": "@twicpics/nuxt",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "TwicPics module for NuxtJS",
   "repository": "https://github.com/TwicPics/nuxt-twicpics.git",
   "license": "MIT",
