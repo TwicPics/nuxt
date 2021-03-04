@@ -11,7 +11,7 @@
 1. Add `@twicpics/nuxt` dependency to your project
 
 ```bash
-yarn add @twicpics/nuxt # or npm install @twicpics/nuxt
+yarn add @twicpics/nuxt -D # or npm install @twicpics/nuxt --save-dev
 ```
 
 2. Add `@twicpics/nuxt` to the `modules` section of `nuxt.config.js`
