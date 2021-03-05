@@ -1,7 +1,5 @@
 <template>
   <main>
-    <twic-img src="https://assets.twicpics.com/examples/football.jpg" />
-    <twic-img src="/football.jpg" />
     <twic-img
       src="/football.jpg"
       ratio="16/9"
