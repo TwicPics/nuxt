@@ -5,6 +5,8 @@ module.exports = {
   buildDir: resolve(__dirname, '.nuxt'),
   srcDir: __dirname,
   modules: [
-    { handler: require('../') }
+    ['@@', {
+      domain: 'https://demo.twic.pics'
+    }]
   ]
 }
