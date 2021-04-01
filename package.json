@@ -2,7 +2,7 @@
   "name": "@twicpics/nuxt",
   "version": "0.1.3",
   "description": "TwicPics module for NuxtJS",
-  "repository": "https://github.com/TwicPics/nuxt-twicpics.git",
+  "repository": "https://github.com/TwicPics/nuxt.git",
   "license": "MIT",
   "author": "TwicPics",
   "files": [
