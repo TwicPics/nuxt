@@ -6,6 +6,18 @@
 
 > [TwicPics](https://www.twicpics.com) integration with NuxtJS. Uses [@twicpics/vue](https://github.com/TwicPics/vue-twicpics) under the hood.
 
+---
+
+## ⚠️ Deprecation warning ⚠️
+
+**This package has been deprecated in favor of [TwicPics Components](https://github.com/TwicPics/components).**
+
+[TwicPics Components](https://github.com/TwicPics/components) is a collection of web components that make it dead easy to unleash the power of [TwicPics](https://www.twicpics.com) in your own projects and using the framework of your choice.
+
+👉 [Check the documentation](https://github.com/TwicPics/components/tree/main/documentation)
+
+---
+
 ## Setup
 
 1.  Add `@twicpics/nuxt` dependency to your project
